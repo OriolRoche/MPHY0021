@@ -5,3 +5,4 @@ Mountains in Wales
 * Tryfan
 * Snowdon
 * Another mountain that I don't know!
+* Cadair Idris
